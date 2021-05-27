@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2877530288
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: magnum
+      Dependencies: {}
+    Info_1:
+      Name: 9250
+      Dependencies: {}
+    Info_2:
+      Name: 7150
+      Dependencies: {}
+    Info_3:
+      Name: 4150
+      Dependencies: {}
