@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3691446076
+CRC: 3955579035
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 955f8c62d1b7a2bcb33d529d5d34b485
+    Hash: 7d7d8be8a7fb67b8676884aa364806ad
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dd6fba1d1c38b15c282b74a982c788dc
+    Hash: facd35e93546f803ad61788307424d2e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -169,9 +169,19 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 328
   Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
 - Class: 1183024399
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/_Game/Prefabs/Products/SouthAmerica/Colheitadeiras/9250/harvester9250.prefab
+- Assets/_Game/Video/9250/video250-4-pt.mp4
+- Assets/_Game/Video/9250/video250-2-es.mp4
+- Assets/_Game/Video/9250/video250-1-es.mp4
+- Assets/_Game/Video/9250/video250-4-es.mp4
+- Assets/_Game/Video/9250/video250-1-pt.mp4
+- Assets/_Game/Video/9250/video250-2-pt.mp4
+- Assets/_Game/Video/9250/video250-6-es.mp4
+- Assets/_Game/Video/9250/video250-6-pt.mp4
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2816126708
+CRC: 1088485328
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5fbf72a063bd0241eb402136df6c2ad4
+    Hash: 2a7b64b37dd156ec1b086540b8068348
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d92d1804d7a710f3a9f7f35da6c66875
+    Hash: e5a701eaad5ebf3a13b226ee480924a4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -167,9 +167,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 328
   Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
 - Class: 1183024399
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/_Game/Video/9250-saf/video250-2-es.mp4
+- Assets/_Game/Video/9250-saf/video250-6-es.mp4
 - Assets/_Game/Prefabs/Products/Africa/9250/harvester9250-Africa.prefab
+- Assets/_Game/Video/9250-saf/video250-1-es.mp4
+- Assets/_Game/Video/9250-saf/video250-4-es.mp4
 Dependencies: []

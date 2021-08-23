@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1962386661
+CRC: 1131114894
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f4ad82d2f2dc2b033773b5007eeab9e
+    Hash: 8279802eb0d414c4cca528576a5e9381
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 05099ea822accd16a75b1f0d0514da0d
+    Hash: 17b663c580a3014bfc896af8ed1e615f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -165,9 +165,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 328
   Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
 - Class: 1183024399
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/_Game/Video/7150/video150-2-pt.mp4
 - Assets/_Game/Prefabs/Products/SouthAmerica/Colheitadeiras/7150/harvester7150.prefab
+- Assets/_Game/Video/7150/video150-5-es.mp4
+- Assets/_Game/Video/7150/video150-4-pt.mp4
+- Assets/_Game/Video/7150/video150-5-pt.mp4
+- Assets/_Game/Video/7150/video150-2-es.mp4
+- Assets/_Game/Video/7150/video150-4-es.mp4
 Dependencies: []
